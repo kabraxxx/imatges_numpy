@@ -1,2 +1,8 @@
 # imatges_numpy
-Matrix structure, dimension, shape, vectorization and Broadcasting practice
+
+## Structure of a Matrix practise ##
+
+In this repository you find the next files:
+* Exercise 1
+* Exercise 2
+* Exercise 3
